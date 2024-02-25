@@ -4,7 +4,7 @@ on:
   [workflow_dispatch]
 
 jobs:
-  publish_image:
+  publish_image:docker push rendergoat/blueberry:tagname
     runs-on: ubuntu-latest
     steps:
       - name: checkout
