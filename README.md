@@ -22,5 +22,6 @@ npm i & node index.js
 
 # Community Links
 ```
-for community links and proxy links join the server: https://discord.gg/XKu2krsV
+for community links and proxy links join the server
 ```
+ https://discord.gg/XKu2krsV
